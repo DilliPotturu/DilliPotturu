@@ -53,7 +53,6 @@ Full-stack job search command center built for Data Engineers and AI/ML professi
 
 ## 🛠 My Stack
 
-```text
 Data Engineering   IBM DataStage · Snowflake · GCP/BigQuery · Teradata · dbt · Apache Airflow
 Languages          Python · PySpark · Spark SQL · SQL · Unix Shell Scripting · TypeScript
 Cloud              Google Cloud Platform · BigQuery · Google Cloud Storage
@@ -61,8 +60,7 @@ Big Data           Apache Spark · Hadoop (HDFS · Parquet · Sqoop · Hive)
 Orchestration      Apache Airflow · Control-M · Autosys · Tivoli · CA Workload Automation
 Healthcare         Claims 837/835 · Eligibility · Pharmacy Benefits · Prior Auth · HIPAA
 Databases          Snowflake · Teradata · PostgreSQL · IBM DB2 · Oracle · SQL Server
-Tools              dbt · GitHub Copilot · DBeaver · ServiceNow · Jenkins · Jenkins
-```
+Tools              dbt · GitHub Copilot · DBeaver · ServiceNow · Jenkins · GitHub Actions
 
 ---
 
