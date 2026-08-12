@@ -41,9 +41,6 @@ My engineering work spans the full data lifecycle: from architecting production-
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
-### AI / ML Tooling
-
-[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)](https://skillicons.dev)
 
 **Specialty stack not in icons:**
 `IBM DataStage` · `Snowflake` · `BigQuery` · `Apache Spark` · `Apache Airflow` · `dbt` · `Teradata` · `Hadoop` · `LangChain` · `Anthropic API` · `Control-M` · `Autosys`
