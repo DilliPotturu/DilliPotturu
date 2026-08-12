@@ -23,8 +23,6 @@ I am a **Senior Data Engineer** with **10 years inside the hardest data in healt
 
 My engineering work spans the full data lifecycle: from architecting production-grade ETL/ELT pipelines in IBM DataStage and Apache Spark, to migrating legacy Teradata workloads to Snowflake, to building AI-powered tools with LangChain and the Anthropic API. I hold two master's degrees in Computer Science and IT Management and am actively expanding into AI/ML Engineering — shipping real projects, not tutorials.
 
-Currently on a **#100DaysOfPython** challenge: one Python project per day, each solving a real healthcare data or data engineering problem.
-
 **Open to:** Senior Data Engineering · AI/ML Engineering · Hybrid roles in Minneapolis/St. Paul
 
 ---
@@ -60,11 +58,8 @@ Currently on a **#100DaysOfPython** challenge: one Python project per day, each 
 | **Cloud Data Platforms** | Advanced | Snowflake, GCP/BigQuery, Google Cloud Storage |
 | **Workflow Orchestration** | Advanced | Apache Airflow DAGs, Control-M, Autosys, Tivoli |
 | **Healthcare Data** | Expert | Claims 837/835, Eligibility, Pharmacy Benefits, HIPAA |
-| **AI / LLM Engineering** | Advancing | LangChain, RAG pipelines, Anthropic API, prompt engineering |
 | **Big Data** | Advanced | Apache Spark, Hadoop HDFS, Parquet, Hive, Sqoop |
 | **Analytics Engineering** | Advanced | dbt, Teradata, PostgreSQL, IBM DB2 |
-| **Full-Stack Development** | Intermediate | React 19, TypeScript, Node.js, Express, PostgreSQL |
-
 ---
 
 ## Featured Projects
@@ -137,22 +132,6 @@ SME for the Supplemental Data Repository (SDR) supporting 5+ downstream healthca
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DilliPotturu&theme=tokyonight&border_radius=10&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DilliPotturu&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8)
-
----
-
-## GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DilliPotturu&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4)](https://github.com/DilliPotturu)
-
----
-
-## Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DilliPotturu&theme=tokyo-night&hide_border=true&area=true)
-
-[![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
 
 ## Current Focus
 
