@@ -43,11 +43,11 @@ My engineering work spans the full data lifecycle: from architecting production-
 
 
 **Specialty stack not in icons:**
-`IBM DataStage` · `Snowflake` · `BigQuery` · `Apache Spark` · `Apache Airflow` · `dbt` · `Teradata` · `Hadoop` · `LangChain` · `Anthropic API` · `Control-M` · `Autosys`
+`IBM DataStage` · `Snowflake` · `BigQuery` · `Apache Spark` · `Apache Airflow` · `dbt` · `Teradata` · `Hadoop` · `LangChain`  · `Control-M` · `Autosys`
 
 ---
 
-## Data Engineering & AI/ML Expertise
+## Data Engineering Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -134,6 +134,8 @@ SME for the Supplemental Data Repository (SDR) supporting 5+ downstream healthca
 
 ```
 Learning:
+  - DBT (Data Build Tool)
+  - Claude certification
   - LangChain · LangGraph · RAG pipeline architecture
   - LLM fine-tuning and prompt engineering at production scale
   - Databricks Lakehouse · Delta Live Tables
@@ -148,8 +150,7 @@ Transitioning:
   - Building toward Senior AI/ML Engineer role by late 2026
 
 Open To:
-  - Senior Data Engineering roles at healthcare payers / PBMs
-  - AI / ML Engineer opportunities (hybrid or remote)
+  - Senior Data Engineering roles
   - Minneapolis / St. Paul metro · fully remote positions
 ```
 
