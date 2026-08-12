@@ -123,16 +123,6 @@ SME for the Supplemental Data Repository (SDR) supporting 5+ downstream healthca
 
 ---
 
-## Certifications
-
-**Databricks**
-
-[![Databricks DE Associate](https://img.shields.io/badge/Databricks-Data_Engineering_Associate-FF3621?style=flat-square&logo=databricks&logoColor=white)](https://github.com/DilliPotturu)
-
-**Anthropic / Skilljar**
-
-[![Anthropic](https://img.shields.io/badge/Anthropic-Claude_API_Practitioner-7C3AED?style=flat-square)](https://github.com/DilliPotturu)
-
 **Education**
 
 [![MS ITM](https://img.shields.io/badge/M.S.-IT_Management_·_Campbellsville_University-3B82F6?style=flat-square&logo=graduation-cap&logoColor=white)](https://github.com/DilliPotturu)
