@@ -31,7 +31,7 @@ My engineering work spans the full data lifecycle: from architecting production-
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,bash&theme=dark)](https://skillicons.dev)
 
 ### Data Engineering & Cloud
 
