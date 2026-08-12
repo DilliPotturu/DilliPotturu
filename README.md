@@ -98,34 +98,6 @@ Currently on a **#100DaysOfPython** challenge: one Python project per day, each 
 
 **What it does:** Ingests live job descriptions, scores your resume against each role using Claude, and outputs a tailored version — reducing cold application prep from hours to minutes.
 
----
-
-**Snowflake Analytics Agent — Conversational BI**
-
-> Full-stack conversational analytics agent that lets users query Snowflake in plain English.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Node.js · Snowflake · LangChain |
-| **Features** | Natural language to SQL · schema-aware context · REST API backend |
-
-**What it does:** Bridges the gap between business users and raw Snowflake data — no SQL required. Schema-aware agent generates, validates, and executes queries with explainable results.
-
----
-
-**Bhagavad Gita Quotes App — AI-Powered Wisdom Engine**
-
-> Spiritual app delivering contextual Bhagavad Gita verses using the Claude API.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Anthropic Claude API · React |
-| **Features** | Verse lookup · contextual interpretation · Sanskrit + English rendering |
-
-**What it does:** Surfaces relevant Bhagavad Gita verses based on user context or mood, with Claude generating thoughtful modern interpretations of each shloka.
-
----
-
 ## Experience
 
 ### Senior Data Engineer — BlueCross BlueShield of Tennessee
